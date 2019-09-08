@@ -1,0 +1,29 @@
+html{font-size: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;}
+html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,iframe,hr,h1,h2,h3,h4,h5,h6{margin:0;padding:0}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}
+address{font-style:normal;}
+img {border: 0;-ms-interpolation-mode: bicubic;}
+ul{list-style:none}button,input,select,textarea{margin:0}
+html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
+img,embed,iframe,object,video{height:auto;max-width:100%}
+audio{max-width:100%}
+iframe{border:0}
+mark{background: transparent;}
+table{border-collapse:collapse;border-spacing:0}
+td,th{padding:0;text-align:left}
+*:focus,*:active{outline: none;}
+a:focus,a:active{outline: none;}
+a,a:hover,a:focus {text-decoration:none;}
+select,label,input{cursor: pointer;}
+textarea {overflow: auto;resize: none;}
+input,textarea{border: none;}
+::-moz-placeholder{opacity: 1;}
+button,input,optgroup,select,textarea,button[disabled],button::-moz-focus-inner,
+input,textarea,input:active,textarea:active,textarea:focus,select:focus,select:active{outline:none;}
+input[type="text"],input[type="email"],input[type="button"],input[type="reset"],input[type="submit"],input[disabled],input[type="checkbox"],input::-moz-focus-inner,input[type="radio"],input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button,input[type="search"],input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration
+{outline:0;border:none;background-image:none;background-color:transparent;-webkit-box-shadow: none;-moz-box-shadow: none;box-shadow: none;-webkit-appearance: none;-moz-appearance: none;appearance: none;
+-webkit-border-radius,-moz-border-radius,border-radius,cursor:pointer;background:transparent;}
+input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-webkit-search-results-button,input::-webkit-search-results-decoration{-webkit-appearance: none;display: none;}
+input[type="text"],input[type="email"],input[type='password']{cursor:text;}
+a.active{cursor:default;}
